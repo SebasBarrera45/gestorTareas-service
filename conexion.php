@@ -28,7 +28,7 @@ class Conexion
     protected function connect()
     {
         try {
-            $NAMEDB = 'proyectoabierto-peeter';
+            $NAMEDB = 'tareas';
             $HOST = 'localhost';
             $USER = 'root';
             $PASSWORD = '';
